@@ -1,10 +1,10 @@
-# TaskNest
+# TaskMan
 
 ## Overview
 The backend of TaskNest is a Node.js and Express-based server that manages task operations, real-time updates with Socket.io, and data storage using MongoDB. The server is deployed on Vercel for production.
 
 ## **Live Demo**
-🔗 [Server Live Link](https://task-nest-server.onrender.com/)
+🔗 [Server Live Link](https://scic-task-server.onrender.com)
 
 ## Features
 - Task CRUD operations (Create, Read, Update, Delete)
